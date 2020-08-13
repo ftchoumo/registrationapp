@@ -1,7 +1,9 @@
-__INSTALLATION GUIDE__
+# INSTALLATION GUIDE
 
 sudo apt-get update
+
 # For Sql-client
+
 sudo apt-get install mysql-client
 
 # For python and related frameworks
@@ -12,4 +14,5 @@ sudo apt-get install python3-pymysql -y
 sudo apt-get install python3-boto3 -y
 
 # for running application
+
 sudo python3 EmpApp.py
