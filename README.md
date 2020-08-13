@@ -1,3 +1,5 @@
+__INSTALLATION GUIDE__
+
 sudo apt-get update
 # For Sql-client
 sudo apt-get install mysql-client
